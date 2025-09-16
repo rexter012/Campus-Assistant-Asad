@@ -23,9 +23,9 @@ A self-hosted, multilingual conversational assistant designed for college campus
 🚀 Quick Start
 Prerequisites
 
-    Python 3.8+
+    Python 3.13(Recommended)
     install c++ using vs_BuildTools
-    At least 8GB RAM
+    At least 8GB RAM Recommended
     GGUF format language model (Gemma 3 4b recommended)
 
 
@@ -115,7 +115,7 @@ Edit simple_rag.py to adjust model parameters:
 
 Document Processing
 
-Supported file formats:
+Supported file formats:(In Prototype)
 
     .txt - Plain text files
 
