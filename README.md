@@ -23,7 +23,7 @@ A self-hosted, multilingual conversational assistant designed for college campus
 🚀 Quick Start
 Prerequisites
 
-    Python 3.13(Recommended)
+    Python 3.13 Recommended
     install c++ using vs_BuildTools
     At least 8GB RAM Recommended
     GGUF format language model (Gemma 3 4b recommended)
